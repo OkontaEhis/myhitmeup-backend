@@ -5,8 +5,8 @@
   "main": "app.js",
   "type": "module",
   "scripts": {
-    "test": "jest"
-    "build": "webpack --mode production"
+    "test": "jest",
+    "build": "webpack"
   },
   "keywords": [],
   "author": "",
