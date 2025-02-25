@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "jest"
+    "build": "webpack --mode production"
   },
   "keywords": [],
   "author": "",
