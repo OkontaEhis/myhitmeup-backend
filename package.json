@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "jest",
-    "build": "webpack"
+    "build": "nest build"
   },
   "keywords": [],
   "author": "",
